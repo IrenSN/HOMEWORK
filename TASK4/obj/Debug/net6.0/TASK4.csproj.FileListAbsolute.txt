@@ -1,0 +1,15 @@
+/Users/sinius/Desktop/Домашка С#/TASK4/bin/Debug/net6.0/TASK4
+/Users/sinius/Desktop/Домашка С#/TASK4/bin/Debug/net6.0/TASK4.deps.json
+/Users/sinius/Desktop/Домашка С#/TASK4/bin/Debug/net6.0/TASK4.runtimeconfig.json
+/Users/sinius/Desktop/Домашка С#/TASK4/bin/Debug/net6.0/TASK4.dll
+/Users/sinius/Desktop/Домашка С#/TASK4/bin/Debug/net6.0/TASK4.pdb
+/Users/sinius/Desktop/Домашка С#/TASK4/obj/Debug/net6.0/TASK4.csproj.AssemblyReference.cache
+/Users/sinius/Desktop/Домашка С#/TASK4/obj/Debug/net6.0/TASK4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinius/Desktop/Домашка С#/TASK4/obj/Debug/net6.0/TASK4.AssemblyInfoInputs.cache
+/Users/sinius/Desktop/Домашка С#/TASK4/obj/Debug/net6.0/TASK4.AssemblyInfo.cs
+/Users/sinius/Desktop/Домашка С#/TASK4/obj/Debug/net6.0/TASK4.csproj.CoreCompileInputs.cache
+/Users/sinius/Desktop/Домашка С#/TASK4/obj/Debug/net6.0/TASK4.dll
+/Users/sinius/Desktop/Домашка С#/TASK4/obj/Debug/net6.0/refint/TASK4.dll
+/Users/sinius/Desktop/Домашка С#/TASK4/obj/Debug/net6.0/TASK4.pdb
+/Users/sinius/Desktop/Домашка С#/TASK4/obj/Debug/net6.0/TASK4.genruntimeconfig.cache
+/Users/sinius/Desktop/Домашка С#/TASK4/obj/Debug/net6.0/ref/TASK4.dll
