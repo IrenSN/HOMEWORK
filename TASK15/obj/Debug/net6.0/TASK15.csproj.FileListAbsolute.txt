@@ -1,0 +1,15 @@
+/Users/sinius/Desktop/Домашка С#/TASK15/obj/Debug/net6.0/TASK15.csproj.AssemblyReference.cache
+/Users/sinius/Desktop/Домашка С#/TASK15/obj/Debug/net6.0/TASK15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinius/Desktop/Домашка С#/TASK15/obj/Debug/net6.0/TASK15.AssemblyInfoInputs.cache
+/Users/sinius/Desktop/Домашка С#/TASK15/obj/Debug/net6.0/TASK15.AssemblyInfo.cs
+/Users/sinius/Desktop/Домашка С#/TASK15/obj/Debug/net6.0/TASK15.csproj.CoreCompileInputs.cache
+/Users/sinius/Desktop/Домашка С#/TASK15/bin/Debug/net6.0/TASK15
+/Users/sinius/Desktop/Домашка С#/TASK15/bin/Debug/net6.0/TASK15.deps.json
+/Users/sinius/Desktop/Домашка С#/TASK15/bin/Debug/net6.0/TASK15.runtimeconfig.json
+/Users/sinius/Desktop/Домашка С#/TASK15/bin/Debug/net6.0/TASK15.dll
+/Users/sinius/Desktop/Домашка С#/TASK15/bin/Debug/net6.0/TASK15.pdb
+/Users/sinius/Desktop/Домашка С#/TASK15/obj/Debug/net6.0/TASK15.dll
+/Users/sinius/Desktop/Домашка С#/TASK15/obj/Debug/net6.0/refint/TASK15.dll
+/Users/sinius/Desktop/Домашка С#/TASK15/obj/Debug/net6.0/TASK15.pdb
+/Users/sinius/Desktop/Домашка С#/TASK15/obj/Debug/net6.0/TASK15.genruntimeconfig.cache
+/Users/sinius/Desktop/Домашка С#/TASK15/obj/Debug/net6.0/ref/TASK15.dll
