@@ -1,0 +1,15 @@
+/Users/sinius/Desktop/Домашка С#/TASK23/bin/Debug/net6.0/TASK23
+/Users/sinius/Desktop/Домашка С#/TASK23/bin/Debug/net6.0/TASK23.deps.json
+/Users/sinius/Desktop/Домашка С#/TASK23/bin/Debug/net6.0/TASK23.runtimeconfig.json
+/Users/sinius/Desktop/Домашка С#/TASK23/bin/Debug/net6.0/TASK23.dll
+/Users/sinius/Desktop/Домашка С#/TASK23/bin/Debug/net6.0/TASK23.pdb
+/Users/sinius/Desktop/Домашка С#/TASK23/obj/Debug/net6.0/TASK23.csproj.AssemblyReference.cache
+/Users/sinius/Desktop/Домашка С#/TASK23/obj/Debug/net6.0/TASK23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinius/Desktop/Домашка С#/TASK23/obj/Debug/net6.0/TASK23.AssemblyInfoInputs.cache
+/Users/sinius/Desktop/Домашка С#/TASK23/obj/Debug/net6.0/TASK23.AssemblyInfo.cs
+/Users/sinius/Desktop/Домашка С#/TASK23/obj/Debug/net6.0/TASK23.csproj.CoreCompileInputs.cache
+/Users/sinius/Desktop/Домашка С#/TASK23/obj/Debug/net6.0/TASK23.dll
+/Users/sinius/Desktop/Домашка С#/TASK23/obj/Debug/net6.0/refint/TASK23.dll
+/Users/sinius/Desktop/Домашка С#/TASK23/obj/Debug/net6.0/TASK23.pdb
+/Users/sinius/Desktop/Домашка С#/TASK23/obj/Debug/net6.0/TASK23.genruntimeconfig.cache
+/Users/sinius/Desktop/Домашка С#/TASK23/obj/Debug/net6.0/ref/TASK23.dll
