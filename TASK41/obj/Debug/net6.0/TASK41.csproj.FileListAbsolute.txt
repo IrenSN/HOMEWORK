@@ -1,0 +1,15 @@
+/Users/sinius/Desktop/Домашка С#/TASK41/obj/Debug/net6.0/TASK41.csproj.AssemblyReference.cache
+/Users/sinius/Desktop/Домашка С#/TASK41/obj/Debug/net6.0/TASK41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinius/Desktop/Домашка С#/TASK41/obj/Debug/net6.0/TASK41.AssemblyInfoInputs.cache
+/Users/sinius/Desktop/Домашка С#/TASK41/obj/Debug/net6.0/TASK41.AssemblyInfo.cs
+/Users/sinius/Desktop/Домашка С#/TASK41/obj/Debug/net6.0/TASK41.csproj.CoreCompileInputs.cache
+/Users/sinius/Desktop/Домашка С#/TASK41/bin/Debug/net6.0/TASK41
+/Users/sinius/Desktop/Домашка С#/TASK41/bin/Debug/net6.0/TASK41.deps.json
+/Users/sinius/Desktop/Домашка С#/TASK41/bin/Debug/net6.0/TASK41.runtimeconfig.json
+/Users/sinius/Desktop/Домашка С#/TASK41/bin/Debug/net6.0/TASK41.dll
+/Users/sinius/Desktop/Домашка С#/TASK41/bin/Debug/net6.0/TASK41.pdb
+/Users/sinius/Desktop/Домашка С#/TASK41/obj/Debug/net6.0/TASK41.dll
+/Users/sinius/Desktop/Домашка С#/TASK41/obj/Debug/net6.0/refint/TASK41.dll
+/Users/sinius/Desktop/Домашка С#/TASK41/obj/Debug/net6.0/TASK41.pdb
+/Users/sinius/Desktop/Домашка С#/TASK41/obj/Debug/net6.0/TASK41.genruntimeconfig.cache
+/Users/sinius/Desktop/Домашка С#/TASK41/obj/Debug/net6.0/ref/TASK41.dll
