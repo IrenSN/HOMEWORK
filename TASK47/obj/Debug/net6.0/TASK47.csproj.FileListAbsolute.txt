@@ -1,0 +1,15 @@
+/Users/sinius/Desktop/Домашка С#/TASK47/obj/Debug/net6.0/TASK47.csproj.AssemblyReference.cache
+/Users/sinius/Desktop/Домашка С#/TASK47/obj/Debug/net6.0/TASK47.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinius/Desktop/Домашка С#/TASK47/obj/Debug/net6.0/TASK47.AssemblyInfoInputs.cache
+/Users/sinius/Desktop/Домашка С#/TASK47/obj/Debug/net6.0/TASK47.AssemblyInfo.cs
+/Users/sinius/Desktop/Домашка С#/TASK47/obj/Debug/net6.0/TASK47.csproj.CoreCompileInputs.cache
+/Users/sinius/Desktop/Домашка С#/TASK47/bin/Debug/net6.0/TASK47
+/Users/sinius/Desktop/Домашка С#/TASK47/bin/Debug/net6.0/TASK47.deps.json
+/Users/sinius/Desktop/Домашка С#/TASK47/bin/Debug/net6.0/TASK47.runtimeconfig.json
+/Users/sinius/Desktop/Домашка С#/TASK47/bin/Debug/net6.0/TASK47.dll
+/Users/sinius/Desktop/Домашка С#/TASK47/bin/Debug/net6.0/TASK47.pdb
+/Users/sinius/Desktop/Домашка С#/TASK47/obj/Debug/net6.0/TASK47.dll
+/Users/sinius/Desktop/Домашка С#/TASK47/obj/Debug/net6.0/refint/TASK47.dll
+/Users/sinius/Desktop/Домашка С#/TASK47/obj/Debug/net6.0/TASK47.pdb
+/Users/sinius/Desktop/Домашка С#/TASK47/obj/Debug/net6.0/TASK47.genruntimeconfig.cache
+/Users/sinius/Desktop/Домашка С#/TASK47/obj/Debug/net6.0/ref/TASK47.dll
