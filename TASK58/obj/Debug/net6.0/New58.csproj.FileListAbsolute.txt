@@ -1,0 +1,15 @@
+/Users/sinius/Desktop/Домашка С#/New58/bin/Debug/net6.0/New58
+/Users/sinius/Desktop/Домашка С#/New58/bin/Debug/net6.0/New58.deps.json
+/Users/sinius/Desktop/Домашка С#/New58/bin/Debug/net6.0/New58.runtimeconfig.json
+/Users/sinius/Desktop/Домашка С#/New58/bin/Debug/net6.0/New58.dll
+/Users/sinius/Desktop/Домашка С#/New58/bin/Debug/net6.0/New58.pdb
+/Users/sinius/Desktop/Домашка С#/New58/obj/Debug/net6.0/New58.csproj.AssemblyReference.cache
+/Users/sinius/Desktop/Домашка С#/New58/obj/Debug/net6.0/New58.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinius/Desktop/Домашка С#/New58/obj/Debug/net6.0/New58.AssemblyInfoInputs.cache
+/Users/sinius/Desktop/Домашка С#/New58/obj/Debug/net6.0/New58.AssemblyInfo.cs
+/Users/sinius/Desktop/Домашка С#/New58/obj/Debug/net6.0/New58.csproj.CoreCompileInputs.cache
+/Users/sinius/Desktop/Домашка С#/New58/obj/Debug/net6.0/New58.dll
+/Users/sinius/Desktop/Домашка С#/New58/obj/Debug/net6.0/refint/New58.dll
+/Users/sinius/Desktop/Домашка С#/New58/obj/Debug/net6.0/New58.pdb
+/Users/sinius/Desktop/Домашка С#/New58/obj/Debug/net6.0/New58.genruntimeconfig.cache
+/Users/sinius/Desktop/Домашка С#/New58/obj/Debug/net6.0/ref/New58.dll

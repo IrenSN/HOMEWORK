@@ -1,0 +1,15 @@
+/Users/sinius/Desktop/Домашка С#/TESSSSS/bin/Debug/net6.0/TESSSSS
+/Users/sinius/Desktop/Домашка С#/TESSSSS/bin/Debug/net6.0/TESSSSS.deps.json
+/Users/sinius/Desktop/Домашка С#/TESSSSS/bin/Debug/net6.0/TESSSSS.runtimeconfig.json
+/Users/sinius/Desktop/Домашка С#/TESSSSS/bin/Debug/net6.0/TESSSSS.dll
+/Users/sinius/Desktop/Домашка С#/TESSSSS/bin/Debug/net6.0/TESSSSS.pdb
+/Users/sinius/Desktop/Домашка С#/TESSSSS/obj/Debug/net6.0/TESSSSS.csproj.AssemblyReference.cache
+/Users/sinius/Desktop/Домашка С#/TESSSSS/obj/Debug/net6.0/TESSSSS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinius/Desktop/Домашка С#/TESSSSS/obj/Debug/net6.0/TESSSSS.AssemblyInfoInputs.cache
+/Users/sinius/Desktop/Домашка С#/TESSSSS/obj/Debug/net6.0/TESSSSS.AssemblyInfo.cs
+/Users/sinius/Desktop/Домашка С#/TESSSSS/obj/Debug/net6.0/TESSSSS.csproj.CoreCompileInputs.cache
+/Users/sinius/Desktop/Домашка С#/TESSSSS/obj/Debug/net6.0/TESSSSS.dll
+/Users/sinius/Desktop/Домашка С#/TESSSSS/obj/Debug/net6.0/refint/TESSSSS.dll
+/Users/sinius/Desktop/Домашка С#/TESSSSS/obj/Debug/net6.0/TESSSSS.pdb
+/Users/sinius/Desktop/Домашка С#/TESSSSS/obj/Debug/net6.0/TESSSSS.genruntimeconfig.cache
+/Users/sinius/Desktop/Домашка С#/TESSSSS/obj/Debug/net6.0/ref/TESSSSS.dll

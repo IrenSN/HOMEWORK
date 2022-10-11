@@ -1,0 +1,15 @@
+/Users/sinius/Desktop/Домашка С#/NEW56/bin/Debug/net6.0/NEW56
+/Users/sinius/Desktop/Домашка С#/NEW56/bin/Debug/net6.0/NEW56.deps.json
+/Users/sinius/Desktop/Домашка С#/NEW56/bin/Debug/net6.0/NEW56.runtimeconfig.json
+/Users/sinius/Desktop/Домашка С#/NEW56/bin/Debug/net6.0/NEW56.dll
+/Users/sinius/Desktop/Домашка С#/NEW56/bin/Debug/net6.0/NEW56.pdb
+/Users/sinius/Desktop/Домашка С#/NEW56/obj/Debug/net6.0/NEW56.csproj.AssemblyReference.cache
+/Users/sinius/Desktop/Домашка С#/NEW56/obj/Debug/net6.0/NEW56.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinius/Desktop/Домашка С#/NEW56/obj/Debug/net6.0/NEW56.AssemblyInfoInputs.cache
+/Users/sinius/Desktop/Домашка С#/NEW56/obj/Debug/net6.0/NEW56.AssemblyInfo.cs
+/Users/sinius/Desktop/Домашка С#/NEW56/obj/Debug/net6.0/NEW56.csproj.CoreCompileInputs.cache
+/Users/sinius/Desktop/Домашка С#/NEW56/obj/Debug/net6.0/NEW56.dll
+/Users/sinius/Desktop/Домашка С#/NEW56/obj/Debug/net6.0/refint/NEW56.dll
+/Users/sinius/Desktop/Домашка С#/NEW56/obj/Debug/net6.0/NEW56.pdb
+/Users/sinius/Desktop/Домашка С#/NEW56/obj/Debug/net6.0/NEW56.genruntimeconfig.cache
+/Users/sinius/Desktop/Домашка С#/NEW56/obj/Debug/net6.0/ref/NEW56.dll
