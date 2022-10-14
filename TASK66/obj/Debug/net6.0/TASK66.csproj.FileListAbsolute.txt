@@ -1,0 +1,15 @@
+/Users/sinius/Desktop/Домашка С#/TASK66/bin/Debug/net6.0/TASK66
+/Users/sinius/Desktop/Домашка С#/TASK66/bin/Debug/net6.0/TASK66.deps.json
+/Users/sinius/Desktop/Домашка С#/TASK66/bin/Debug/net6.0/TASK66.runtimeconfig.json
+/Users/sinius/Desktop/Домашка С#/TASK66/bin/Debug/net6.0/TASK66.dll
+/Users/sinius/Desktop/Домашка С#/TASK66/bin/Debug/net6.0/TASK66.pdb
+/Users/sinius/Desktop/Домашка С#/TASK66/obj/Debug/net6.0/TASK66.csproj.AssemblyReference.cache
+/Users/sinius/Desktop/Домашка С#/TASK66/obj/Debug/net6.0/TASK66.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinius/Desktop/Домашка С#/TASK66/obj/Debug/net6.0/TASK66.AssemblyInfoInputs.cache
+/Users/sinius/Desktop/Домашка С#/TASK66/obj/Debug/net6.0/TASK66.AssemblyInfo.cs
+/Users/sinius/Desktop/Домашка С#/TASK66/obj/Debug/net6.0/TASK66.csproj.CoreCompileInputs.cache
+/Users/sinius/Desktop/Домашка С#/TASK66/obj/Debug/net6.0/TASK66.dll
+/Users/sinius/Desktop/Домашка С#/TASK66/obj/Debug/net6.0/refint/TASK66.dll
+/Users/sinius/Desktop/Домашка С#/TASK66/obj/Debug/net6.0/TASK66.pdb
+/Users/sinius/Desktop/Домашка С#/TASK66/obj/Debug/net6.0/TASK66.genruntimeconfig.cache
+/Users/sinius/Desktop/Домашка С#/TASK66/obj/Debug/net6.0/ref/TASK66.dll
